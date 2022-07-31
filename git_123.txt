@@ -7,5 +7,8 @@ New kiane
 JOHN
 oiesrjg85
 new comment 7
+<<<<<<< HEAD
 
 soeirgujoddth
+=======
+>>>>>>> d21dca86e414a2c7a227f717185ed5d6741e9330
